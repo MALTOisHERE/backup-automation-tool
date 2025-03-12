@@ -1,6 +1,6 @@
 # Backup Automation Tool
 
-This is a Python-based backup automation tool with both command-line and graphical user interface (GUI) support. It allows users to back up files from a source directory to a destination directory, with features like incremental backups, compression, and retention management.
+This is a Python-based backup automation tool graphical user interface (GUI). It allows users to back up files from a source directory to a destination directory, with features like incremental backups, compression, and retention management.
 
 ## Features
 
@@ -10,9 +10,8 @@ This is a Python-based backup automation tool with both command-line and graphic
 - **Logging**: Records all backup activities for monitoring and troubleshooting.
 - **GUI Interface**: Provides a simple graphical interface for easier configuration and management.
 
-## Prerequisites
+## Clone the Repository
 
-- **Clone the Repository :**
 ```bash
 git clone https://github.com/MALTOisHERE/backup-automation-tool.git
 cd backup-automation-tool
